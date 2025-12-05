@@ -7,8 +7,8 @@
 h2.title { font-family: 'Dancing Script', cursive; font-size: 48px; color: darkred; margin-top: 60px; margin-bottom: 10px; }
 
 <body>
-  <img src="twoje-zdj1.jpg" class="side-img left-img">
-<img src="twoje-zdj2.jpg" class="side-img right-img">
+  <img src="zdjecie.1.jpg" class="side-img left-img">
+<img src="zdjecie.2.jpg" class="side-img right-img">
 
 <div class="hearts"></div>
 </body>
