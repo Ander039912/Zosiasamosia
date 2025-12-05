@@ -44,6 +44,9 @@ Jak to czytasz to bardzo bardzo cie kocham i to frfr jestes idealna przepiekna, 
 **SZCZERZE JESTEM TAKI SZCZESLIWY**
 jestem taki szczesliwy ze cie mam jakby serio co ja bym bez ciebie zrobic bez twojego cudownego charakteru, idealnego poczucia humoru, bez twojego kocham cie rano i wieczorem i co 5 min, komu ja bym opowiadal bajki o pieknej Zosi no komu skarbie jak nie mojej idealnej dziewczynie? szczerze jestem takiiiiiiiiiiiiiiiii szczesliwy ze moge byc u twojego boku i mam nadzieje ze razem stoczymy walke trudnosciom tego swiata
 
+**TAK BARDZO CIE KURWA KOCHAMMMMMMMM**
+KOCHAM CIE TAK KURWA BARDZO SKARBIE JESTES PRZECUDOWNA I PRZEPIEKNA I PRZE IDEALNA I NIE WIEM JAKBYM BEZ CIEBIE FUNKCJONOWAL NIE MYSLALBYM JUZ CO MYSLI MOJA ZOSIA(oczywiscie o swoim chlopaku) I JAK SIE CZUJE CO POROBIA MOJ SKARB NAJDROZSZY JAKBY BE FR JAK MI SIE UDALO CIEBIE WYRWAC I JESZCZE MNIE TAK BARDZO KOCHASZ I SIE MNA OPIEKUJESZ NO NIE WIEM JESTES PRZEIDEALNA, CHCE TYLKO CIEBIE DO KONCA SWIATA I TROCHE DLUZEJ JESTES TAKA SUPEROWA I TAK BARDZO CIE KOCHAMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM JAK BIJE MOJE SERCE TO TYLKO SLYCHAC ,,KOCHAM ZOSIE'' NAPRAWDE NIE WIEM JAK UDALO MI SIE CIEBIE WYRAWAC SKORO JESTES TAKA SUPEROWA KOCHAM CIE BARDZO BARDZO BARDZO BARDZO BARDZO
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
