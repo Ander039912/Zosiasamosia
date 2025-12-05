@@ -106,7 +106,7 @@ jestem taki szczesliwy ze cie mam jakby serio co ja bym bez ciebie zrobic bez tw
 <body>
     <div class="header">kochasz mnieeeeeeeee i poslubisz mnieeee</div>
     <div class="popup">
-        <h1>Czy poślubisz mię?</h1>
+        <h1>Czy poślubisz mnie?</h1>
         <button class="yes" onclick="sayYes()">oczywiscie mememememe</button>
         <button class="no" onclick="sayNo()">Nie raczę</button>
     </div>
