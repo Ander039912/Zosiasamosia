@@ -130,19 +130,4 @@ KOCHAM CIE TAK KURWA BARDZO SKARBIE JESTES PRZECUDOWNA I PRZEPIEKNA I PRZE IDEAL
 </body>
 </html>
 
-<script>
-function createHeart() {
-    const heart = document.createElement("div");
-    heart.innerHTML = "❤️";
-    heart.style.position = "absolute";
-    heart.style.left = Math.random() * 100 + "vw";
-    heart.style.fontSize = (Math.random() * 20 + 20) + "px";
-    heart.style.animation = "fly " + (4 + Math.random() * 4) + "s linear";
-    heart.style.top = "100vh";
-    document.querySelector(".hearts").appendChild(heart);
-
-    setTimeout(() => heart.remove(), 8000); 
-}
-
-setInterval(createHeart, 500); // nowe serce co 0.5 sekundy
-</script>
+<div class="hearts"></div>
