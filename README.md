@@ -40,3 +40,39 @@ Jak to czytasz to bardzo bardzo cie kocham i to frfr jestes idealna przepiekna, 
     </div>
   </div>
 </div>
+
+.timeline {
+  position: relative;
+  margin: 20px auto;
+  padding: 20px 0;
+  width: 80%;
+  border-left: 3px solid #555;
+}
+
+.timeline-item {
+  margin: 20px 0;
+  padding-left: 20px;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  width: 14px;
+  height: 14px;
+  background: #555;
+  border-radius: 50%;
+  position: absolute;
+  left: -8px;
+  top: 5px;
+}
+
+.timeline-date {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.timeline-content {
+  background: #f1f1f1;
+  padding: 10px 15px;
+  border-radius: 6px;
+}
