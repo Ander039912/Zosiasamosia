@@ -43,3 +43,82 @@ Jak to czytasz to bardzo bardzo cie kocham i to frfr jestes idealna przepiekna, 
 
 **SZCZERZE JESTEM TAKI SZCZESLIWY**
 jestem taki szczesliwy ze cie mam jakby serio co ja bym bez ciebie zrobic bez twojego cudownego charakteru, idealnego poczucia humoru, bez twojego kocham cie rano i wieczorem i co 5 min, komu ja bym opowiadal bajki o pieknej Zosi no komu skarbie jak nie mojej idealnej dziewczynie? szczerze jestem takiiiiiiiiiiiiiiiii szczesliwy ze moge byc u twojego boku i mam nadzieje ze razem stoczymy walke trudnosciom tego swiata
+
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pytanie</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #ffc0cb; /* Jasno różowy kolor tła */
+            font-family: Arial, sans-serif;
+        }
+        .popup {
+            background-color: white;
+            border: 2px solid #ccc;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
+        }
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            color: white;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+        button:hover {
+            transform: scale(1.1); /* Powiększenie przy najechaniu */
+        }
+        button:active {
+            transform: scale(0.9); /* Zmniejszenie przy kliknięciu */
+        }
+        .yes {
+            background-color: #4caf50;
+        }
+        .yes:hover {
+            background-color: #45a049; /* Jaśniejszy odcień zieleni */
+        }
+        .no {
+            background-color: #f44336;
+        }
+        .no:hover {
+            background-color: #e53935; /* Jaśniejszy odcień czerwieni */
+        }
+        .header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">kochasz mnieeeeeeeee i poslubisz mnieeee</div>
+    <div class="popup">
+        <h1>Czy poślubisz mię?</h1>
+        <button class="yes" onclick="sayYes()">oczywiscie mememememe</button>
+        <button class="no" onclick="sayNo()">Nie raczę</button>
+    </div>
+    <script>
+        function sayYes() {
+            const popup = document.querySelector('.popup');
+            popup.innerHTML = '<h1 style="color: dziekuje zonka ty moja kochana ❤️</h1>';
+        }
+        function sayNo() {
+            const popup = document.querySelector('.popup');
+            popup.innerHTML = '<h1 style="color: red;">Wiem że to było przez przypadek...</h1>';
+        }
+    </script>
+</body>
+</html>
