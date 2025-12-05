@@ -113,7 +113,7 @@ jestem taki szczesliwy ze cie mam jakby serio co ja bym bez ciebie zrobic bez tw
     <script>
         function sayYes() {
             const popup = document.querySelector('.popup');
-            popup.innerHTML = '<h1 style="color:> dziekuje zonka ty moja kochana ❤️</h1>';
+            popup.innerHTML = '<h1 style="color:>dziekuje zonka ty moja kochana ❤️</h1>';
         }
         function sayNo() {
             const popup = document.querySelector('.popup');
