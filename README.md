@@ -41,38 +41,5 @@ Jak to czytasz to bardzo bardzo cie kocham i to frfr jestes idealna przepiekna, 
   </div>
 </div>
 
-.timeline {
-  position: relative;
-  margin: 20px auto;
-  padding: 20px 0;
-  width: 80%;
-  border-left: 3px solid #555;
-}
-
-.timeline-item {
-  margin: 20px 0;
-  padding-left: 20px;
-  position: relative;
-}
-
-.timeline-item::before {
-  content: "";
-  width: 14px;
-  height: 14px;
-  background: #555;
-  border-radius: 50%;
-  position: absolute;
-  left: -8px;
-  top: 5px;
-}
-
-.timeline-date {
-  font-weight: bold;
-  margin-bottom: 5px;
-}
-
-.timeline-content {
-  background: #f1f1f1;
-  padding: 10px 15px;
-  border-radius: 6px;
-}
+**SZCZERZE JESTEM TAKI SZCZESLIWY**
+jestem taki szczesliwy ze cie mam jakby serio co ja bym bez ciebie zrobic bez twojego cudownego charakteru, idealnego poczucia humoru, bez twojego kocham cie rano i wieczorem i co 5 min, komu ja bym opowiadal bajki o pieknej Zosi no komu skarbie jak nie mojej idealnej dziewczynie? szczerze jestem takiiiiiiiiiiiiiiiii szczesliwy ze moge byc u twojego boku i mam nadzieje ze razem stoczymy walke trudnosciom tego swiata
