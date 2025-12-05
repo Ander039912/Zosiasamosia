@@ -1,3 +1,6 @@
+
+
+
 # Zosiasamosia
 <h1 class="main-title">dla mojej ukochanej Zosi❤️</h1>
 <title>Zosia</title> <style> body { background: linear-gradient(to bottom, #ffe6ec, #ffffff); font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
