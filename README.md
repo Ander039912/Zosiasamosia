@@ -3,3 +3,6 @@
 h2.title { font-family: 'Dancing Script', cursive; font-size: 48px; color: darkred; margin-top: 60px; margin-bottom: 10px; }
 
 p.subtitle { font-size: 18px; color: #555; margin: 0 auto 40px auto; max-width: 600px; } </style>
+
+**Zosia**
+Jak to czytasz to bardzo bardzo cie kocham i to frfr jestes idealna przepiekna, cudowna, slodka i najukochansza na swiecie
