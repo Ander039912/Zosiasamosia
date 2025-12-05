@@ -116,7 +116,7 @@ KOCHAM CIE TAK KURWA BARDZO SKARBIE JESTES PRZECUDOWNA I PRZEPIEKNA I PRZE IDEAL
     <script>
         function sayYes() {
             const popup = document.querySelector('.popup');
-            popup.innerHTML = '<h1 style="color: green;">Raduję się, iż rzekłaś A takoż! ❤️</h1>';
+            popup.innerHTML = '<h1 style="color: green;">ciesze sie moja zonko kocham cieeeee! ❤️</h1>';
         }
         function sayNo() {
             const popup = document.querySelector('.popup');
